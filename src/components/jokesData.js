@@ -1,7 +1,7 @@
 const jokesData = [
     {
         id: 1,
-        punchLine: "it's hard to explain puns to kleptomaniacs beacause they always tahe things literally."
+        punchLine: "it's hard to explain puns to kleptomaniacs beacause they always take things literally."
     },
     {
         id: 2,
